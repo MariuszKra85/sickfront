@@ -5,4 +5,4 @@ const nextConfig = {
   webpack5: false,
 };
 
-export default nextConfig;
+module.exports = nextConfig;
